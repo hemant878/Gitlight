@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Source+Sans+Pro&display=swap');
+
+.blog{
+    margin: 50px;
+}
+.aimg{
+    display: flex;
+}
+
+
+.title{
+    text-align: initial;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.profile img{
+     width: 35px;
+     height: 35px;
+    border-radius: 100%;
+}
+.mainrow{
+    display: flex;
+}
+.profile{
+    text-align: initial;
+    width: 100%;
+    display: flex;
+    /* display: inherit; */
+}
+.name{
+    margin-left: 9px;
+    margin-top: 5px;
+}
+.desc{
+    text-align: initial;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.subtitle{
+    text-align: initial;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(82, 79, 79);
+    display: flex;
+}
